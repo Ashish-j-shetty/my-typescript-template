@@ -1,6 +1,10 @@
-## This is a custom typescript template designed by Ashish j shetty.'
+## This is a custom typescript template for react created by Ashish j shetty.'
 
-[NPM package](https://www.npmjs.com/package/cra-template-typescript-folder-structure)
+NPM package :[cra-template-typescript-folder-structure](https://www.npmjs.com/package/cra-template-typescript-folder-structure)
+
+## Installation 
+`npx create-react-app filename --template typescript-folder-structure`
+
 
 # Getting Started with Create React App
 
