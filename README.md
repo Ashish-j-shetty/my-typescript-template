@@ -1,4 +1,6 @@
-## This is a custom typescript template designed by Ashish j shetty.
+## This is a typescript template for react .
+
+**Usage** : `npx create-react-app name --template typescript-folder-structure`
 
 # Getting Started with Create React App
 
